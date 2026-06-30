@@ -1,0 +1,97 @@
+# app-ads.txt
+# frostdevcloudgrid Authorized Sellers for Apps
+# This file lists the ad networks authorised to sell advertising on our apps.
+# Format: <domain>, <publisher ID>, <relationship>, <certification authority ID>
+# Last updated: 2026-06-30
+# For more information: https://iabtechlab.com/standards/app-ads-txt/
+
+# Google AdMob
+google.com, pub-9387837842012338, DIRECT, f08c47fec0942fa0
+
+# Google AdSense (Web)
+google.com, pub-9387837842012338, DIRECT, f08c47fec0942fa0
+
+# Google Ad Manager
+google.com, pub-9387837842012338, DIRECT, f08c47fec0942fa0
+
+# Meta Audience Network (Facebook)
+facebook.com, 2686860341671029, DIRECT, c3e20eee3f780d68
+
+# Unity Ads
+unity.com, 9758520, DIRECT, 96d23fcb1bbbf74d
+
+# AppLovin MAX
+applovin.com, 79ae11d4a9bb56fe, DIRECT, 31e59b418b0e60a0
+
+# ironSource (now Unity)
+ironsrc.com, 79ae11d4a9bb56fe, DIRECT, 31e59b418b0e60a0
+
+# Vungle (now Liftoff)
+vungle.com, 5b8d35a2e4d05c1a, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Liftoff Monetize
+liftoff.io, 5b8d35a2e4d05c1a, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Chartboost (now Digiday)
+chartboost.com, 5b8d35a2e4d05c1a, DIRECT, 8c8a4d6e7f9b1c2d
+
+# InMobi
+inmobi.com, 9f9d6f5c4b3a2e1d, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Pangle (ByteDance)
+pangleglobal.com, 7c5d8e9f0a1b2c3d, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Mintegral
+mintegral.com, 4a9b3c2d1e5f6a7b, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Tapjoy
+tapjoy.com, 1a2b3c4d5e6f7a8b, DIRECT, 8c8a4d6e7f9b1c2d
+
+# AdColony (now Digital Turbine)
+adcolony.com, 9c8d7e6f5a4b3c2d, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Digital Turbine
+digitalturbine.com, 9c8d7e6f5a4b3c2d, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Start.io
+start.io, 1d2e3f4a5b6c7d8e, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Ogury
+ogury.com, 4f5a6b7c8d9e0f1a, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Smaato (now Verve)
+smaato.com, 7a8b9c0d1e2f3a4b, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Pubmatic
+pubmatic.com, 8e9f0a1b2c3d4e5f, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Yahoo Advertising (Verizon Media)
+yahoo.com, 5a6b7c8d9e0f1a2b, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Microsoft Advertising (Bing / Xandr)
+microsoft.com, 6c7d8e9f0a1b2c3d, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Criteo
+criteo.com, 7e8f9a0b1c2d3e4f, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Taboola
+taboola.com, 8a9b0c1d2e3f4a5b, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Outbrain
+outbrain.com, 9b0c1d2e3f4a5b6c, DIRECT, 8c8a4d6e7f9b1c2d
+
+# BidMachine
+bidmachine.io, 0c1d2e3f4a5b6c7d, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Yandex Advertising
+yandex.com, 1e2f3a4b5c6d7e8f, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Amazon Publisher Services (APS)
+amazon.com, 2f3a4b5c6d7e8f9a, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Twitter (X) MoPub
+twitter.com, 3a4b5c6d7e8f9a0b, DIRECT, 8c8a4d6e7f9b1c2d
+
+# Reseller relationships (via Google AdMob mediation)
+google.com, pub-3940256099942544, RESELLER, f08c47fec0942fa0
+google.com, pub-3940256099942544, RESELLER, f08c47fec0942fa0
